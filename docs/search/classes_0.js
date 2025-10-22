@@ -1,4 +1,21 @@
 var searchData=
 [
-  ['easyc_0',['EasyC',['../class_easy_c.html',1,'']]]
+  ['_5fband_5fctx_0',['_band_ctx',['../struct__band__ctx.html',1,'']]],
+  ['_5fbitfile_1',['_bitfile',['../struct__bitfile.html',1,'']]],
+  ['_5fbitreader_2',['_bitreader',['../struct_vorbis_decoder_1_1__bitreader.html',1,'VorbisDecoder']]],
+  ['_5fceltdecoder_3',['_CELTDecoder',['../struct___c_e_l_t_decoder.html',1,'']]],
+  ['_5fceltmode_4',['_CELTMode',['../struct___c_e_l_t_mode.html',1,'']]],
+  ['_5fcodebook_5',['_codebook',['../struct_vorbis_decoder_1_1__codebook.html',1,'VorbisDecoder']]],
+  ['_5fcoupling_5fstep_6',['_coupling_step',['../struct_vorbis_decoder_1_1__coupling__step.html',1,'VorbisDecoder']]],
+  ['_5ffilter_7',['_filter',['../struct_audio_1_1__filter.html',1,'Audio']]],
+  ['_5fmsg_8',['_msg',['../struct_audio_1_1__msg.html',1,'Audio']]],
+  ['_5fodp3_9',['_odp3',['../struct_opus_decoder_1_1__odp3.html',1,'OpusDecoder']]],
+  ['_5fofp2_10',['_ofp2',['../struct_opus_decoder_1_1__ofp2.html',1,'OpusDecoder']]],
+  ['_5fofp3_11',['_ofp3',['../struct_opus_decoder_1_1__ofp3.html',1,'OpusDecoder']]],
+  ['_5fphreh_12',['_phreh',['../structaudiolib_1_1__phreh.html',1,'audiolib']]],
+  ['_5fpis_5farray_13',['_pis_array',['../struct_audio_1_1__pis__array.html',1,'Audio']]],
+  ['_5frflh_14',['_rflh',['../structaudiolib_1_1__rflh.html',1,'audiolib']]],
+  ['_5fsilk_5fresampler_5fstate_5fstruct_15',['_silk_resampler_state_struct',['../struct__silk__resampler__state__struct.html',1,'']]],
+  ['_5fsubmap_16',['_submap',['../struct_vorbis_decoder_1_1__submap.html',1,'VorbisDecoder']]],
+  ['_5ftspp_17',['_tspp',['../structaudiolib_1_1__tspp.html',1,'audiolib']]]
 ];

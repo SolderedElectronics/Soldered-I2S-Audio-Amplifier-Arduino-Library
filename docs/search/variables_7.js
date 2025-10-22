@@ -1,0 +1,28 @@
+var searchData=
+[
+  ['g_5fdecayslope_0',['g_decayslope',['../aac__decoder_2libfaad_2tables_8h.html#a31634060491a04097bf7cc9c33190809',1,'tables.h']]],
+  ['g_5flast_5fgood_5fpan_5findex_1',['g_last_good_pan_index',['../structdrm__ps__info.html#a64773acf48b4eabaaac29b06810a83fe',1,'drm_ps_info']]],
+  ['g_5flast_5fgood_5fsa_5findex_2',['g_last_good_sa_index',['../structdrm__ps__info.html#ac2211185be2d110529463408d29bbd02',1,'drm_ps_info']]],
+  ['g_5flast_5fhad_5fpan_3',['g_last_had_pan',['../structdrm__ps__info.html#a44a3e9d04ece9e393c739e997dfc8c02',1,'drm_ps_info']]],
+  ['g_5flast_5fhad_5fsa_4',['g_last_had_sa',['../structdrm__ps__info.html#acf2874c605bb9d0c9ac846b1250ce5a8',1,'drm_ps_info']]],
+  ['g_5flim_5fboost_5',['G_lim_boost',['../structsbr__hfadj__info.html#ab48ce6e2b77b3627de7367e53c235aba',1,'sbr_hfadj_info']]],
+  ['g_5fpan_5findex_6',['g_pan_index',['../structdrm__ps__info.html#aac9871efafaf0962745d8317f32a1b5c',1,'drm_ps_info']]],
+  ['g_5fprev_5fpan_5findex_7',['g_prev_pan_index',['../structdrm__ps__info.html#a313833fdf8527f9be6ad9543ee467d53',1,'drm_ps_info']]],
+  ['g_5fprev_5fsa_5findex_8',['g_prev_sa_index',['../structdrm__ps__info.html#aa875707de041d0f1d6084e8b16782314',1,'drm_ps_info']]],
+  ['g_5fsa_5findex_9',['g_sa_index',['../structdrm__ps__info.html#a456f55dc31b11563cda0f65dd54331f4',1,'drm_ps_info']]],
+  ['g_5ftemp_5fprev_10',['G_temp_prev',['../structsbr__info.html#a0d07b037118ac1919efbbeb9e988a507',1,'sbr_info']]],
+  ['gain_5fcontrol_5fdata_5fpresent_11',['gain_control_data_present',['../structic__stream.html#a67f1c2aa62c42b23f41efc5b4976b3e8',1,'ic_stream']]],
+  ['gains_5fq16_12',['Gains_Q16',['../structsilk__decoder__control__t.html#ad9e2c8bc8d5b01cf5a63830053e142d5',1,'silk_decoder_control_t']]],
+  ['gainsindices_13',['GainsIndices',['../structside_info_indices__t.html#a6bbaa5885b11e51c32c40a2d05d472b9',1,'sideInfoIndices_t']]],
+  ['gb_14',['gb',['../struct_huffman_info.html#aac2edb7e9c09961b385b8dfc251e48bc',1,'HuffmanInfo::gb'],['../struct_i_m_d_c_t_info.html#ac6797e8bc6fffdb23f7b1cd07afbf754',1,'IMDCTInfo::gb']]],
+  ['gbin_15',['gbIn',['../struct_block_count.html#a3386fd613f85d90ee23bd2bdb21b9cc6',1,'BlockCount']]],
+  ['gbout_16',['gbOut',['../struct_block_count.html#a8fe9f47581f222c62095bdf12aa2584c',1,'BlockCount']]],
+  ['global_5fgain_17',['global_gain',['../structic__stream.html#a543a2906f65d657dc2c6367f31b731dc',1,'ic_stream']]],
+  ['globalgain_18',['globalGain',['../struct_side_info_sub.html#a7ba0a09bd2db0515b3bbabb8eb0e4962',1,'SideInfoSub']]],
+  ['gq_5fringbuf_5findex_19',['GQ_ringbuf_index',['../structsbr__info.html#a3377b8dfd67f1d27b0ea968af740c727',1,'sbr_info']]],
+  ['group_5fborder_20',['group_border',['../structps__info.html#afacdf7d9e98e667ca1e231894d2fbc9c',1,'ps_info']]],
+  ['group_5fborder20_21',['group_border20',['../aac__decoder_2libfaad_2tables_8h.html#a0745e9b2674d467a15990df73c073949',1,'tables.h']]],
+  ['group_5fborder34_22',['group_border34',['../aac__decoder_2libfaad_2tables_8h.html#a32133a9cc462ac89f6b09b1c32ed34b5',1,'tables.h']]],
+  ['groupbook_23',['groupbook',['../struct_vorbis_decoder_1_1vorbis__info__residue.html#a78749fb9fec4e94cf168225570dbf388',1,'VorbisDecoder::vorbis_info_residue']]],
+  ['grouping_24',['grouping',['../struct_vorbis_decoder_1_1vorbis__info__residue.html#a0e6c84da20b0ce8b4440024c71f06561',1,'VorbisDecoder::vorbis_info_residue']]]
+];

@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['library_0',['NAZIV PROIZVODA Arduino library',['../index.html',1,'']]]
+  ['digital_20audio_20amplifier_20arduino_20library_0',['I2S Digital Audio Amplifier Arduino library',['../index.html',1,'']]]
 ];

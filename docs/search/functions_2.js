@@ -1,4 +1,20 @@
 var searchData=
 [
-  ['initializenative_0',['initializeNative',['../class_sensor.html#adb537c76173019fddf84b2d89e6c6559',1,'Sensor::initializeNative()'],['../class_easy_c.html#a48c8aa55d48ef0cc11047cab0735c998',1,'EasyC::initializeNative()']]]
+  ['b64encode_0',['b64encode',['../class_audio.html#a1af7ae5bf85c762e656c81e9a2f624b3',1,'Audio']]],
+  ['big_5fendian_1',['big_endian',['../classps__ptr.html#a2c95f30a3c117b0d6978e4581a668b68',1,'ps_ptr']]],
+  ['bigendian_2',['bigEndian',['../class_audio.html#a9d71e07625fa148960cedda4df60a689',1,'Audio']]],
+  ['bitexact_5fcos_3',['bitexact_cos',['../class_celt_decoder.html#a798765036d4d78222e4950cdb000e98f',1,'CeltDecoder']]],
+  ['bitexact_5flog2tan_4',['bitexact_log2tan',['../class_celt_decoder.html#af2571feee958aa076c63a2c79681c96d',1,'CeltDecoder']]],
+  ['bitreader_5',['bitReader',['../class_vorbis_decoder.html#af596eb94eab2113d24350910cab25935',1,'VorbisDecoder']]],
+  ['bitreader_5fadv_6',['bitReader_adv',['../class_vorbis_decoder.html#add0756c6a14e1b62a5593ecd0d4c0b9e',1,'VorbisDecoder']]],
+  ['bitreader_5fclear_7',['bitReader_clear',['../class_vorbis_decoder.html#a5f97707a9a8efcbed7fd162c7ff20df5',1,'VorbisDecoder']]],
+  ['bitreader_5flook_8',['bitReader_look',['../class_vorbis_decoder.html#a576f13a3e908d7af1af3c8bcc6c86856',1,'VorbisDecoder']]],
+  ['bitreader_5fsetdata_9',['bitReader_setData',['../class_vorbis_decoder.html#a31d9bce539656963e63c70811026de55',1,'VorbisDecoder']]],
+  ['bitrev12_10',['bitrev12',['../class_vorbis_decoder.html#a6a2aaa652e3e912aa4b9d1182128248e',1,'VorbisDecoder']]],
+  ['bits2pulses_11',['bits2pulses',['../class_celt_decoder.html#a666b77650372140a080efd211779d53b',1,'CeltDecoder']]],
+  ['bswap32_12',['bswap32',['../class_audio.html#af4ea43537ae3aab238566f09de3f281c',1,'Audio']]],
+  ['bswap64_13',['bswap64',['../class_audio.html#ad3cd141eb78c69ec8cbbcf88bdaeea27',1,'Audio']]],
+  ['bufferfilled_14',['bufferFilled',['../class_audio_buffer.html#a42323ac5a6c5ff9e46eb1c103a5b9630',1,'AudioBuffer']]],
+  ['byteswasread_15',['bytesWasRead',['../class_audio_buffer.html#a41f2d6df57df4b4842908ed8465dbd1b',1,'AudioBuffer']]],
+  ['byteswritten_16',['bytesWritten',['../class_audio_buffer.html#aabaf555275e703fb89bd766c599ec625',1,'AudioBuffer']]]
 ];

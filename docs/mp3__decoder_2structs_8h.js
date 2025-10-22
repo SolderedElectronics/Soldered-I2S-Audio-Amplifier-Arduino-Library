@@ -1,0 +1,56 @@
+var mp3__decoder_2structs_8h =
+[
+    [ "MP3FrameInfo", "struct_m_p3_frame_info.html", "struct_m_p3_frame_info" ],
+    [ "SFBandTable", "struct_s_f_band_table.html", "struct_s_f_band_table" ],
+    [ "BitStreamInfo", "struct_bit_stream_info.html", "struct_bit_stream_info" ],
+    [ "FrameHeader", "struct_frame_header.html", "struct_frame_header" ],
+    [ "SideInfoSub", "struct_side_info_sub.html", "struct_side_info_sub" ],
+    [ "SideInfo", "struct_side_info.html", "struct_side_info" ],
+    [ "CriticalBandInfo_t", "struct_critical_band_info__t.html", "struct_critical_band_info__t" ],
+    [ "DequantInfo", "struct_dequant_info.html", "struct_dequant_info" ],
+    [ "HuffmanInfo", "struct_huffman_info.html", "struct_huffman_info" ],
+    [ "HuffTabLookup", "struct_huff_tab_lookup.html", "struct_huff_tab_lookup" ],
+    [ "IMDCTInfo", "struct_i_m_d_c_t_info.html", "struct_i_m_d_c_t_info" ],
+    [ "BlockCount", "struct_block_count.html", "struct_block_count" ],
+    [ "ScaleFactorInfoSub", "struct_scale_factor_info_sub.html", "struct_scale_factor_info_sub" ],
+    [ "ScaleFactorJS", "struct_scale_factor_j_s.html", "struct_scale_factor_j_s" ],
+    [ "SubbandInfo", "struct_subband_info.html", "struct_subband_info" ],
+    [ "MP3DecInfo", "struct_m_p3_dec_info.html", "struct_m_p3_dec_info" ],
+    [ "Mp3FrameHeader", "struct_mp3_frame_header.html", "struct_mp3_frame_header" ],
+    [ "BitStreamInfo_t", "mp3__decoder_2structs_8h.html#ae1571d6b34e440b4609f927b24a4a0cc", null ],
+    [ "BlockCount_t", "mp3__decoder_2structs_8h.html#ae23bd202112c46428be92243f55876f8", null ],
+    [ "DequantInfo_t", "mp3__decoder_2structs_8h.html#a58d14ff34b7f7be035e90f5afdce294b", null ],
+    [ "FrameHeader_t", "mp3__decoder_2structs_8h.html#a2dc352967a030470b351294765e63dbd", null ],
+    [ "HuffmanInfo_t", "mp3__decoder_2structs_8h.html#ac57e3950bca6218dead4071c7df3ffbc", null ],
+    [ "HuffTabLookup_t", "mp3__decoder_2structs_8h.html#a7df2c276f7250a8f9d1381ee26851076", null ],
+    [ "HuffTabType_t", "mp3__decoder_2structs_8h.html#a9f97bdb80fab60e6ee2b4a38607bfedb", null ],
+    [ "IMDCTInfo_t", "mp3__decoder_2structs_8h.html#aa9965d6f951b8dfdd93a8d7884a6c908", null ],
+    [ "MP3DecInfo_t", "mp3__decoder_2structs_8h.html#ae10b39f0c79ae190169e2a7f79a825ab", null ],
+    [ "MP3FrameInfo_t", "mp3__decoder_2structs_8h.html#a6529a7415120d412e4f07b961e283828", null ],
+    [ "ScaleFactorInfoSub_t", "mp3__decoder_2structs_8h.html#af2d4e78e1f0c06f96f953ccbb0c329c8", null ],
+    [ "ScaleFactorJS_t", "mp3__decoder_2structs_8h.html#aa97678c897273920d17b5974aa71da7c", null ],
+    [ "SFBandTable_t", "mp3__decoder_2structs_8h.html#ae940ec0f2c2a9d890c44189cdfe73bab", null ],
+    [ "SideInfo_t", "mp3__decoder_2structs_8h.html#ae68ab499c4a16d15e5dc5df2dae322d5", null ],
+    [ "SideInfoSub_t", "mp3__decoder_2structs_8h.html#ab18ffd2f3384ebc7d702a465759e408d", null ],
+    [ "SubbandInfo_t", "mp3__decoder_2structs_8h.html#ab1fd3acbaefdc545cd972a88cfff6619", null ],
+    [ "HuffTabType", "mp3__decoder_2structs_8h.html#abe38bdeb4280441f9c8745104c6eeaa4", [
+      [ "noBits", "mp3__decoder_2structs_8h.html#abe38bdeb4280441f9c8745104c6eeaa4aa1d9cde8eafe8fa49ea6b4eead26594d", null ],
+      [ "oneShot", "mp3__decoder_2structs_8h.html#abe38bdeb4280441f9c8745104c6eeaa4a643b15eb23f0c6a25cfedc376ad0f6bf", null ],
+      [ "loopNoLinbits", "mp3__decoder_2structs_8h.html#abe38bdeb4280441f9c8745104c6eeaa4a6febb68fd51cdd7ff80dec1a90ce3394", null ],
+      [ "loopLinbits", "mp3__decoder_2structs_8h.html#abe38bdeb4280441f9c8745104c6eeaa4ac7f84534db622ba41df393a93106fcf1", null ],
+      [ "quadA", "mp3__decoder_2structs_8h.html#abe38bdeb4280441f9c8745104c6eeaa4a052c714ff66863c5a23bef94174a8573", null ],
+      [ "quadB", "mp3__decoder_2structs_8h.html#abe38bdeb4280441f9c8745104c6eeaa4a4c55473ab96a644b0bfe860522fb064f", null ],
+      [ "invalidTab", "mp3__decoder_2structs_8h.html#abe38bdeb4280441f9c8745104c6eeaa4a7bc122fe424a2b580697da1d97cd04c8", null ]
+    ] ],
+    [ "MPEGVersion_t", "mp3__decoder_2structs_8h.html#ae95c0f59a61d51850fbbe6369a3652d6", [
+      [ "MPEG1", "mp3__decoder_2structs_8h.html#ae95c0f59a61d51850fbbe6369a3652d6a762371aa5d006c42a0f7d4c474996acb", null ],
+      [ "MPEG2", "mp3__decoder_2structs_8h.html#ae95c0f59a61d51850fbbe6369a3652d6a3a26a6d8f677e5de6054ef061c3da766", null ],
+      [ "MPEG25", "mp3__decoder_2structs_8h.html#ae95c0f59a61d51850fbbe6369a3652d6a02dfbefc1cf38e2b2bb21ab49f266181", null ]
+    ] ],
+    [ "StereoMode_t", "mp3__decoder_2structs_8h.html#a7dde4304acb2c13246c1a8dc1a5820eb", [
+      [ "Stereo", "mp3__decoder_2structs_8h.html#a7dde4304acb2c13246c1a8dc1a5820eba083a3dc113a0b2e6e98314786b222e70", null ],
+      [ "Joint", "mp3__decoder_2structs_8h.html#a7dde4304acb2c13246c1a8dc1a5820ebaf6b6928accba69be63dda670f39f068b", null ],
+      [ "Dual", "mp3__decoder_2structs_8h.html#a7dde4304acb2c13246c1a8dc1a5820ebaaeaa09ffb99510ae738f1eae101f63af", null ],
+      [ "Mono", "mp3__decoder_2structs_8h.html#a7dde4304acb2c13246c1a8dc1a5820eba1b6b2929659177f6e04cdebdb6c80dab", null ]
+    ] ]
+];

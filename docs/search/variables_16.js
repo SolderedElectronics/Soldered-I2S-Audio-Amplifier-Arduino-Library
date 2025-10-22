@@ -1,0 +1,25 @@
+var searchData=
+[
+  ['v_0',['V',['../aac__decoder_2libfaad_2tables_8h.html#a564abd327b0301964fbba618623a03cb',1,'tables.h']]],
+  ['v_1',['v',['../structqmfs__info.html#a77eb2311cc4ab6d8d58f10682e6a0e4c',1,'qmfs_info::v'],['../structhcb__2__quad.html#a8b7a6ec2c99d28797311e023feecadcf',1,'hcb_2_quad::v'],['../struct_opus_decoder_1_1__ofp3.html#a1e9ee8f338d4717d2fd3734c0102a3d7',1,'OpusDecoder::_ofp3::v']]],
+  ['v_5findex_2',['v_index',['../structqmfs__info.html#aa6e66d45167158ce4e7a871bc6aaaf10',1,'qmfs_info']]],
+  ['vad_5fflags_3',['VAD_flags',['../structsilk__decoder__state__t.html#afdebb491cfa63ada587309b89372e62b',1,'silk_decoder_state_t']]],
+  ['valid_5fcc_5felement_5ftag_5fselect_4',['valid_cc_element_tag_select',['../structprogram__config.html#af662109929643cc0a3fef854d2a34142',1,'program_config']]],
+  ['validsamples_5',['validSamples',['../structaudiolib_1_1pl_ch__t.html#a0f17f1d4f2e5b9453748af2bd7c53707',1,'audiolib::plCh_t::validSamples'],['../_audio_8h.html#aed2f2da1403eca35c71f638cf01e9c70',1,'validSamples:&#160;Audio.h']]],
+  ['var_6',['VAR',['../structpred__state.html#ab839e32c63e6627751e332e82377c64f',1,'pred_state']]],
+  ['vbuf_7',['vbuf',['../struct_subband_info.html#a23225aad03fd2bd44bfa40b2296a035e',1,'SubbandInfo']]],
+  ['vec_8',['vec',['../struct_audio_1_1__msg.html#a1c1928e6a73bb20e833633ccd02a2ee3',1,'Audio::_msg']]],
+  ['version_9',['version',['../structlatm__header.html#afb9b7a00fc4da88a687f00e3f4896d24',1,'latm_header::version'],['../struct_m_p3_frame_info.html#a7ad3eb9646f0862674e3e84872a2b025',1,'MP3FrameInfo::version']]],
+  ['version_5fflags_10',['version_flags',['../structaudiolib_1_1m4a_hdr__t.html#a3b483348e08abb630602db0a1d5d973d',1,'audiolib::m4aHdr_t']]],
+  ['versiona_11',['versionA',['../structlatm__header.html#ac858bd7543587600a4b4d1cdcaeff828',1,'latm_header']]],
+  ['vfs_12',['vfs',['../struct_opus_decoder_1_1__ofp3.html#ace6697c4a29d8e925ff367c086c4ff00',1,'OpusDecoder::_ofp3']]],
+  ['vindex_13',['vindex',['../struct_subband_info.html#a2dfe5fbf1dbcaac3385303f4be68b41b',1,'SubbandInfo']]],
+  ['vwin1024_14',['vwin1024',['../lookup_8h.html#ac29caba2a80c38c4537172d3333e7e01',1,'lookup.h']]],
+  ['vwin128_15',['vwin128',['../lookup_8h.html#a62b94c48deefbfafa2660fcc1fc34c23',1,'lookup.h']]],
+  ['vwin2048_16',['vwin2048',['../lookup_8h.html#a6dcd38a042c276c1e33340dcfded2959',1,'lookup.h']]],
+  ['vwin256_17',['vwin256',['../lookup_8h.html#a2e2a2a20fd30428a65e44e2dc776dbae',1,'lookup.h']]],
+  ['vwin4096_18',['vwin4096',['../lookup_8h.html#a1b68d5e9453497bffc3293e90ae71312',1,'lookup.h']]],
+  ['vwin512_19',['vwin512',['../lookup_8h.html#a5ad58d7013ebb79a7158e35cb97cc624',1,'lookup.h']]],
+  ['vwin64_20',['vwin64',['../lookup_8h.html#a12fa00693d2ff7ae77ad183ac84d083e',1,'lookup.h']]],
+  ['vwin8192_21',['vwin8192',['../lookup_8h.html#ad081cefa8c7789cb6d2f0997d092a82d',1,'lookup.h']]]
+];

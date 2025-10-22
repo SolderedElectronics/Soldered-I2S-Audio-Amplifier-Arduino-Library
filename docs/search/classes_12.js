@@ -1,0 +1,28 @@
+var searchData=
+[
+  ['sbr_5fhfadj_5finfo_0',['sbr_hfadj_info',['../structsbr__hfadj__info.html',1,'']]],
+  ['sbr_5finfo_1',['sbr_info',['../structsbr__info.html',1,'']]],
+  ['sbyt_5ft_2',['sbyt_t',['../structaudiolib_1_1sbyt__t.html',1,'audiolib']]],
+  ['scalefactorinfosub_3',['ScaleFactorInfoSub',['../struct_scale_factor_info_sub.html',1,'']]],
+  ['scalefactorjs_4',['ScaleFactorJS',['../struct_scale_factor_j_s.html',1,'']]],
+  ['sdet_5ft_5',['sdet_t',['../structaudiolib_1_1sdet__t.html',1,'audiolib']]],
+  ['sfbandtable_6',['SFBandTable',['../struct_s_f_band_table.html',1,'']]],
+  ['sideinfo_7',['SideInfo',['../struct_side_info.html',1,'']]],
+  ['sideinfoindices_5ft_8',['sideInfoIndices_t',['../structside_info_indices__t.html',1,'']]],
+  ['sideinfosub_9',['SideInfoSub',['../struct_side_info_sub.html',1,'']]],
+  ['silk_5fcng_5fstruct_5ft_10',['silk_CNG_struct_t',['../structsilk___c_n_g__struct__t.html',1,'']]],
+  ['silk_5fdeccontrolstruct_5ft_11',['silk_DecControlStruct_t',['../structsilk___dec_control_struct__t.html',1,'']]],
+  ['silk_5fdecoder_5fcontrol_5ft_12',['silk_decoder_control_t',['../structsilk__decoder__control__t.html',1,'']]],
+  ['silk_5fdecoder_5fstate_5ft_13',['silk_decoder_state_t',['../structsilk__decoder__state__t.html',1,'']]],
+  ['silk_5fdecoder_5ft_14',['silk_decoder_t',['../structsilk__decoder__t.html',1,'']]],
+  ['silk_5flp_5fstate_5ft_15',['silk_LP_state_t',['../structsilk___l_p__state__t.html',1,'']]],
+  ['silk_5fnlsf_5fcb_5fstruct_5ft_16',['silk_NLSF_CB_struct_t',['../structsilk___n_l_s_f___c_b__struct__t.html',1,'']]],
+  ['silk_5fplc_5fstruct_5ft_17',['silk_PLC_struct_t',['../structsilk___p_l_c__struct__t.html',1,'']]],
+  ['silk_5fvad_5fstate_5ft_18',['silk_VAD_state_t',['../structsilk___v_a_d__state__t.html',1,'']]],
+  ['silkdecoder_19',['SilkDecoder',['../class_silk_decoder.html',1,'']]],
+  ['split_5fctx_20',['split_ctx',['../structsplit__ctx.html',1,'']]],
+  ['ssr_5finfo_21',['ssr_info',['../structssr__info.html',1,'']]],
+  ['stereo_5fdec_5fstate_5ft_22',['stereo_dec_state_t',['../structstereo__dec__state__t.html',1,'']]],
+  ['subbandinfo_23',['SubbandInfo',['../struct_subband_info.html',1,'']]],
+  ['sylt_5ft_24',['sylt_t',['../structaudiolib_1_1sylt__t.html',1,'audiolib']]]
+];

@@ -1,5 +1,20 @@
 var searchData=
 [
-  ['open_20source_20license_0',['Open-source license',['../index.html#autotoc_md7',1,'']]],
-  ['original_20source_1',['Original source',['../index.html#autotoc_md6',1,'']]]
+  ['k0_0',['k0',['../structsbr__info.html#a70fac383d4c36c2d689a24f680eb298b',1,'sbr_info']]],
+  ['kbd_5flong_5f1024_1',['kbd_long_1024',['../aac__decoder_2libfaad_2tables_8h.html#a7cd1e10a6b02ee80e6e00de5c9a9548a',1,'tables.h']]],
+  ['kbd_5flong_5f256_2',['kbd_long_256',['../aac__decoder_2libfaad_2tables_8h.html#a95420fa66eb588c81fc9920df0b2b8bd',1,'tables.h']]],
+  ['kbd_5flong_5f960_3',['kbd_long_960',['../aac__decoder_2libfaad_2tables_8h.html#a1d6431a4aac172364624c29e3ad27c88',1,'tables.h']]],
+  ['kbd_5fshort_5f120_4',['kbd_short_120',['../aac__decoder_2libfaad_2tables_8h.html#a3c3ff5d390be6487c784d283f6e0dc2f',1,'tables.h']]],
+  ['kbd_5fshort_5f128_5',['kbd_short_128',['../aac__decoder_2libfaad_2tables_8h.html#aa210cbbca68d4cfa40bb51cbaa100110',1,'tables.h']]],
+  ['kbd_5fshort_5f32_6',['kbd_short_32',['../aac__decoder_2libfaad_2tables_8h.html#a1f868a2eec230c3b780e8492197fb999',1,'tables.h']]],
+  ['kf_5fbfly2_7',['kf_bfly2',['../class_celt_decoder.html#ad862b1519f7f046dcb295c6f0dbbb0e4',1,'CeltDecoder']]],
+  ['kf_5fbfly3_8',['kf_bfly3',['../class_celt_decoder.html#a0a7f4991b4157c6e6a7e27ce3d07f9ec',1,'CeltDecoder']]],
+  ['kf_5fbfly4_9',['kf_bfly4',['../class_celt_decoder.html#a6f0ea92091c84e1f4f5b6a76216c0cec',1,'CeltDecoder']]],
+  ['kf_5fbfly5_10',['kf_bfly5',['../class_celt_decoder.html#ae23247aaf91e358dd4c9ce98de8aec40',1,'CeltDecoder']]],
+  ['kfft_11',['kfft',['../structmdct__lookup__t.html#a2ceac1fa0a4f9b98db7db14ac433ecc5',1,'mdct_lookup_t']]],
+  ['kiss_5ffft_5fcpx_12',['kiss_fft_cpx',['../structkiss__fft__cpx.html',1,'']]],
+  ['kiss_5ffft_5fstate_13',['kiss_fft_state',['../structkiss__fft__state.html',1,'kiss_fft_state'],['../celt__structs_8h.html#ac2199dcc53311f5794c04c6de75f4814',1,'kiss_fft_state:&#160;celt_structs.h']]],
+  ['kiss_5ftwiddle_5fcpx_14',['kiss_twiddle_cpx',['../structkiss__twiddle__cpx.html',1,'']]],
+  ['kx_15',['kx',['../structsbr__info.html#a4b6d8f9a37bb3be83dfe79f34bbe47de',1,'sbr_info']]],
+  ['kx_5fprev_16',['kx_prev',['../structsbr__info.html#af0b0a8fce6ce6522486b477f97ea0cd1',1,'sbr_info']]]
 ];

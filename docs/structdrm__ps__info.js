@@ -1,0 +1,27 @@
+var structdrm__ps__info =
+[
+    [ "bs_enable_pan", "structdrm__ps__info.html#ad828e4c1ae1a266074a73cad786693c4", null ],
+    [ "bs_enable_sa", "structdrm__ps__info.html#a3985aabfbda9b78547ff685ed24b93f9", null ],
+    [ "bs_pan_data", "structdrm__ps__info.html#a9c3fdb50c7f1b103ac2129d8dea6737a", null ],
+    [ "bs_pan_dt_flag", "structdrm__ps__info.html#acc1aaa9c44dfcbe2e51b400e836e3171", null ],
+    [ "bs_sa_data", "structdrm__ps__info.html#afaef0af9515e57129ee9d3377008d25b", null ],
+    [ "bs_sa_dt_flag", "structdrm__ps__info.html#ac74182ff67f54c733f99bfbef06eab6b", null ],
+    [ "d2_buff", "structdrm__ps__info.html#a7df621a9e167b74dafb66ea5a68214c2", null ],
+    [ "d_buff", "structdrm__ps__info.html#a9d9bfabe293f3c26e8218df54627d576", null ],
+    [ "delay_buf_index_ser", "structdrm__ps__info.html#af0a62048cbd9f9576efac5f001e7d92b", null ],
+    [ "drm_ps_data_available", "structdrm__ps__info.html#a2daf5c92799e2f6627c274c6d5425cfb", null ],
+    [ "g_last_good_pan_index", "structdrm__ps__info.html#a64773acf48b4eabaaac29b06810a83fe", null ],
+    [ "g_last_good_sa_index", "structdrm__ps__info.html#ac2211185be2d110529463408d29bbd02", null ],
+    [ "g_last_had_pan", "structdrm__ps__info.html#a44a3e9d04ece9e393c739e997dfc8c02", null ],
+    [ "g_last_had_sa", "structdrm__ps__info.html#acf2874c605bb9d0c9ac846b1250ce5a8", null ],
+    [ "g_pan_index", "structdrm__ps__info.html#aac9871efafaf0962745d8317f32a1b5c", null ],
+    [ "g_prev_pan_index", "structdrm__ps__info.html#a313833fdf8527f9be6ad9543ee467d53", null ],
+    [ "g_prev_sa_index", "structdrm__ps__info.html#aa875707de041d0f1d6084e8b16782314", null ],
+    [ "g_sa_index", "structdrm__ps__info.html#a456f55dc31b11563cda0f65dd54331f4", null ],
+    [ "pan_decode_error", "structdrm__ps__info.html#aecb8d4d797a9a3fb87c9a3f5183168d5", null ],
+    [ "peakdecay_fast", "structdrm__ps__info.html#a857308c586fe1d7ad7ff83d8f452c193", null ],
+    [ "prev_nrg", "structdrm__ps__info.html#a83b9aff5c0a66ad10b3660119bc2716a", null ],
+    [ "prev_peakdiff", "structdrm__ps__info.html#a57c05b20ded306928dc7ce7c08a06ec7", null ],
+    [ "SA", "structdrm__ps__info.html#ac7b91665cbf526d16ac47fc070ff4f7e", null ],
+    [ "sa_decode_error", "structdrm__ps__info.html#a8ee298d3559cdd51659974ad9b2f4775", null ]
+];
