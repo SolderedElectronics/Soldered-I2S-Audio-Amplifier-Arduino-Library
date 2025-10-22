@@ -1,4 +1,4 @@
-# NAZIV PROIZVODA Arduino library
+# I2S Digital Audio Amplifier Arduino library
 
 [![Make docs and publish to GitHub Pages](https://github.com/SolderedElectronics/Soldered-Generic-Arduino-Library/actions/workflows/make_docs.yml/badge.svg?branch=dev)](https://github.com/SolderedElectronics/Soldered-Generic-Arduino-Library/actions/workflows/make_docs.yml)
 [![Arduino Library Manager Compatibility](https://github.com/SolderedElectronics/Soldered-Generic-Arduino-Library/actions/workflows/arduino_lint.yml/badge.svg?branch=dev)](https://github.com/SolderedElectronics/Soldered-Generic-Arduino-Library/actions/workflows/arduino_lint.yml)
@@ -6,9 +6,9 @@
 
 | ![Product name](https://upload.wikimedia.org/wikipedia/commons/8/8f/Example_image.svg) |
 | :------------------------------------------------------------------------------------: |
-|                      [NAZIV PROIZVODA](https://www.solde.red/SKU)                      |
+|                      [I2S Digital Audio Amplifier](https://www.solde.red/SKU)                      |
 
-OPIS PROIZVODA + LINK NA [easyC ecosystem](https://www.soldered.com/en/easyC).
+******************OPIS PROIZVODA + LINK NA [easyC ecosystem](https://www.soldered.com/en/easyC).******************
 
 ### Repository Contents
 
@@ -24,7 +24,7 @@ You can find hardware design for this board in _NAZIV PROIZVODA_ hardware reposi
 
 Access Arduino library documentation [here](https://SolderedElectronics.github.io/Soldered-Generic-Arduino-Library/).
 
-- Tutorial for using the NAZIV PROIZVODA board
+- Tutorial for using the I2S Digital Amplifier board
 - Installing an Arduino library
 
 ### Board compatibility
