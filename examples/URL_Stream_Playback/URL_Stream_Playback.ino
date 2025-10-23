@@ -1,3 +1,22 @@
+/**
+ **************************************************
+ *
+ * @file        URL_Stream_Playback.ino
+ *
+ * @brief       Example that shows how to connect to online
+ *              audio stream and play it over I2S using the 
+ *              audio amplifier.
+ *
+ *
+ *
+ * @link        solde.red/333355
+ *              Stereo I2S Digital Audio Amplifier (SKU: 333355)
+ *
+ * @authors     Dino Ragač
+ *
+ **************************************************
+ */
+
 #include "Soldered_I2S_Audio_Amplifier.h"
 #include "WiFi.h"
 
@@ -34,12 +53,12 @@ void setup()
         delay(1000);
     } 
 
-    // Set connected pins
+    // Set audio amplifier pins to output I2S digital audio
     audio.setPinout(I2S_BCLK, I2S_LRCLK, I2S_DOUT);
 
     // Set volume, default 0 ... 21
     audio.setVolume(10); 
-
+    
     // Connect to online audio URL and start streaming
     audio.connecttohost("http://stream.antennethueringen.de/live/aac-64/stream.antennethueringen.de/");
 }
