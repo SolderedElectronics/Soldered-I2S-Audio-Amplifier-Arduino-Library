@@ -8,7 +8,13 @@
 | :------------------------------------------------------------------------------------: |
 |                      [I2S Digital Audio Amplifier](https://www.solde.red/SKU)                      |
 
-******************OPIS PROIZVODA + LINK NA [easyC ecosystem](https://www.soldered.com/en/easyC).******************
+
+
+**Important notes for uploading code**
+- Under **Tools -> Board**, select **ESP32 Dev Module** and correct serial port
+- Set:
+  - PSRAM: **Enabled**
+  - Partition Scheme: **Huge APP (NO OTA)**
 
 ### Repository Contents
 
@@ -18,7 +24,7 @@
 
 ### Hardware design
 
-You can find hardware design for this board in _NAZIV PROIZVODA_ hardware repository.
+You can find hardware design for this board in Soldered I2S Digiatl Audio Amplifier hardware repository.
 
 ### Documentation
 
