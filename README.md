@@ -24,7 +24,7 @@
 
 ### Hardware design
 
-You can find hardware design for this board in Soldered I2S Digiatl Audio Amplifier hardware repository.
+You can find hardware design for this board in Soldered I2S Digital Audio Amplifier hardware repository.
 
 ### Documentation
 
